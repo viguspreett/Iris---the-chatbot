@@ -5,7 +5,7 @@ The project started as a terminal chatbot and was later extended with a graphica
 This project was built to understand how basic chatbot logic works and how Python logic can be connected to a GUI.
 
 What this project does : 
-1) Greets the user and asks for their name.
+1) Greets the user and asks for their name
 2) Remembers the user’s name during the conversation
 3) Responds based on simple mood-based rules
 4) Runs inside a desktop window using Tkinter
