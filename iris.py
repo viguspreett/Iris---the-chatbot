@@ -25,10 +25,10 @@ while True :
     log(f"User : {mood}")
 
     if mood == "bye":
-        log("Iris : Its okay, Goodbye. Take care!")
+        log("Iris : Goodbye. Take care!")
         break 
     elif mood in good_responses :
-        log("Iris : Good to know! ")
+        log("Iris : That's good to hear! ")
     elif mood in bad_responses :
-        log("Iris : It's okay. Ek din sab theek hoga. This too shall pass!") 
-    else : log("Iris : Oh, I see")
+        log("Iris : It's okay. This too shall pass!") 
+    else : log("Iris : Oh, I see.")
